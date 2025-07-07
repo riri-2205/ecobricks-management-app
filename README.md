@@ -37,11 +37,11 @@ This is a full-featured desktop-based DBMS application built using **Python**, *
 ---
 
 ## Project Structure
-
+```bash
 ├── gui-2.py # Main PyQt6 GUI interface with all tabs
 ├── db_2.py # Database creation, connection, triggers, procedures
 ├── requirements.txt # Optional: PyQt6 and mysql-connector
-
+```
 ---
 
 ## Installation
