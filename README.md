@@ -1,7 +1,11 @@
 # EcoBricks Management System
 
 This is a full-featured desktop-based DBMS application built using **Python**, **MySQL**, and **PyQt6**. The system is designed to manage plastic donations and eco-friendly construction projects using ecobricks. It was developed as part of the IT252 Database Management Systems course at NITK.
-https://www.google.com/imgres?q=kenichi&imgurl=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fjm8fUh70x9WUIg7tMGMTHEmLhI4.jpg&imgrefurl=https%3A%2F%2Fwww.myseries.tv%2Fhistorys-strongest-disciple-kenichi%2F&docid=4jU440zLCB6fAM&tbnid=2Of_d6ZUHR2d2M&vet=12ahUKEwjDp_vOqL6PAxX61jgGHY5UAQUQM3oECFsQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwjDp_vOqL6PAxX61jgGHY5UAQUQM3oECFsQAA
+
+
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/402aea9c-8043-4719-b4da-60daf10e342f" />
+
+
 ---
 Poi dengei lanje nee erri puka cumslut oogabooga
 
