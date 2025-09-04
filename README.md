@@ -3,6 +3,7 @@
 This is a full-featured desktop-based DBMS application built using **Python**, **MySQL**, and **PyQt6**. The system is designed to manage plastic donations and eco-friendly construction projects using ecobricks. It was developed as part of the IT252 Database Management Systems course at NITK.
 
 ---
+Poi dengei lanje nee erri puka cumslut oogabooga
 
 ## Features
 
